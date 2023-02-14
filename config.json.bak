@@ -1,0 +1,28 @@
+{
+    "ownerNumber": ["62895341321489@s.whatsapp.net","6289688206739@s.whatsapp.net"],
+    "ownerName": "❦︎𝘿 𝙞 𝙘 𝙠 𝘆 B o t zシ︎Ⓥ",
+    "instagram" : "https://www.instagram.com/dickyy_heriyanto",
+    "gcwa" : "https://chat.whatsapp.com/FihZbq4PU461pNv1IC9InT",
+    "botName": "❦︎𝘿 𝙞 𝙘 𝙠 𝘆 B o t zシ︎Ⓥ",
+    "footer": "❦︎𝘿 𝙞 𝙘 𝙠 𝘆 B o t zシ︎Ⓥ",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "apikeu",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 60,
+    "limitCount": 100,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
